@@ -1,4 +1,4 @@
-# LabVIEW
+# LabVIEW 2020
 ###### 受支持的操作系统  
 
 Windows 7 (SP1) 32-bit  
