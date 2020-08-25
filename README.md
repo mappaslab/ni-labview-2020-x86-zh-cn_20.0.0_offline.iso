@@ -1,4 +1,4 @@
-#LabVIEW
+# LabVIEW
 > 受支持的操作系统  
 
 Windows 7 (SP1) 32-bit  
@@ -19,7 +19,7 @@ Windows Server 2012 R2 64-bit
 
 > 包含的版本
 
-专业​版, 基本​版, 完整版
+专业版, 基本版, 完整版
 
 > 应用程序位数
 
